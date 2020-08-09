@@ -6,6 +6,7 @@
     </samp>
 </p>
 
-<video width="70%" controls>
-  <source src="https://github.com/CG1507/nlp_elasticsearch/blob/master/demo.mp4" type="video/mp4">
-</video>
+<p align="center">
+     <img src="https://github.com/CG1507/nlp_elasticsearch/blob/master/demo.gif" width="70%">
+    <br><br>
+</p>
