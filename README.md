@@ -2,7 +2,7 @@
     <samp>
         Natural Language Search on ElasticSearch index.
         <br /><br />
-        Repo will be updated soon.
+        Repo contains only sample results.
     </samp>
 </p>
 
